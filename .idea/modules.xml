@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Osaka Shopping App.iml" filepath="$PROJECT_DIR$/Osaka Shopping App.iml" group="Osaka Shopping App" />
+      <module fileurl="file://$PROJECT_DIR$/Osaka Shopping App/Osaka Shopping App-Osaka Shopping App.iml" filepath="$PROJECT_DIR$/Osaka Shopping App/Osaka Shopping App-Osaka Shopping App.iml" group="Osaka Shopping App/Osaka Shopping App" />
+    </modules>
+  </component>
+</project>
