@@ -7,7 +7,7 @@
         {
           "id": 1,
           "name": "Nike Sneakers",
-          "date_added": "2016-12-09T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 1,
@@ -42,7 +42,7 @@
         {
           "id": 2,
           "name": "Adidas Running Shoes",
-          "date_added": "2016-11-05T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 5,
@@ -77,7 +77,7 @@
         {
           "id": 21,
           "name": "Roadster Loafers",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 65,
@@ -100,7 +100,7 @@
         {
           "id": 22,
           "name": "Light Loafers",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 67,
@@ -123,7 +123,7 @@
         {
           "id": 23,
           "name": "Floaters",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 69,
@@ -153,7 +153,7 @@
         {
           "id": 3,
           "name": "Spykar Denim",
-          "date_added": "2017-01-05T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 9,
@@ -188,7 +188,7 @@
         {
           "id": 4,
           "name": "Lee Cotton Jeans",
-          "date_added": "2017-01-25T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 13,
@@ -223,7 +223,7 @@
         {
           "id": 24,
           "name": "Denim Wash",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 71,
@@ -246,7 +246,7 @@
         {
           "id": 25,
           "name": "Pepe Jeans Slim Fit",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 73,
@@ -269,7 +269,7 @@
         {
           "id": 26,
           "name": "Spykar Funky Regular",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 75,
@@ -299,7 +299,7 @@
         {
           "id": 5,
           "name": "Polo Collar T-Shirt",
-          "date_added": "2016-12-20T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 17,
@@ -334,7 +334,7 @@
         {
           "id": 6,
           "name": "Adidas Nylon",
-          "date_added": "2017-01-28T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 21,
@@ -369,7 +369,7 @@
         {
           "id": 27,
           "name": "Being Human Collar T-shirt",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 77,
@@ -392,7 +392,7 @@
         {
           "id": 28,
           "name": "V - Neck Smart T-Shirt",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 79,
@@ -415,7 +415,7 @@
         {
           "id": 29,
           "name": "Manchester United",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 81,
@@ -445,7 +445,7 @@
         {
           "id": 7,
           "name": "Comfort Tracks",
-          "date_added": "2016-12-22T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 25,
@@ -480,7 +480,7 @@
         {
           "id": 8,
           "name": "Adidas Trousers",
-          "date_added": "2017-01-20T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 29,
@@ -515,7 +515,7 @@
         {
           "id": 30,
           "name": "Superdry track",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 83,
@@ -538,7 +538,7 @@
         {
           "id": 31,
           "name": "Night Comfy Track",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 85,
@@ -561,7 +561,7 @@
         {
           "id": 32,
           "name": "Superdry Joggers",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 87,
@@ -591,7 +591,7 @@
         {
           "id": 9,
           "name": "Bata Lace up Shoes",
-          "date_added": "2016-12-22T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 33,
@@ -626,7 +626,7 @@
         {
           "id": 10,
           "name": "Franco Leather",
-          "date_added": "2017-01-20T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 37,
@@ -668,7 +668,7 @@
         {
           "id": 11,
           "name": "Wrangler Checked Shirt",
-          "date_added": "2017-01-22T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 41,
@@ -703,7 +703,7 @@
         {
           "id": 12,
           "name": "Printed Shirt",
-          "date_added": "2017-01-20T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 45,
@@ -745,7 +745,7 @@
         {
           "id": 13,
           "name": "Iphone 6S",
-          "date_added": "2017-01-10T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 49,
@@ -768,7 +768,7 @@
         {
           "id": 14,
           "name": "Iphone 7",
-          "date_added": "2016-12-20T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 51,
@@ -791,7 +791,7 @@
         {
           "id": 33,
           "name": "Iphone 6",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 89,
@@ -814,7 +814,7 @@
         {
           "id": 34,
           "name": "Iphone 6s Plus",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 91,
@@ -837,7 +837,7 @@
         {
           "id": 35,
           "name": "Iphone 7 Plus",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 93,
@@ -867,7 +867,7 @@
         {
           "id": 15,
           "name": "Galaxy S7 Edge",
-          "date_added": "2017-01-15T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 53,
@@ -890,7 +890,7 @@
         {
           "id": 16,
           "name": "Galaxy J5",
-          "date_added": "2016-12-20T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 55,
@@ -936,7 +936,7 @@
         {
           "id": 37,
           "name": "Galaxy Grand Prime",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 97,
@@ -959,7 +959,7 @@
         {
           "id": 38,
           "name": "Note 4",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 99,
@@ -989,7 +989,7 @@
         {
           "id": 17,
           "name": "Dell Inspiron Core",
-          "date_added": "2017-01-10T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 57,
@@ -1012,7 +1012,7 @@
         {
           "id": 18,
           "name": "Dell Inspiron 11",
-          "date_added": "2016-12-20T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 59,
@@ -1042,7 +1042,7 @@
         {
           "id": 19,
           "name": "Satellite Pro",
-          "date_added": "2017-01-15T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 61,
@@ -1065,7 +1065,7 @@
         {
           "id": 20,
           "name": "Satellite P50",
-          "date_added": "2016-01-18T11:16:11.000Z",
+          "date_added": "2020-04-29T11:16:11.000Z",
           "variants": [
             {
               "id": 63,
